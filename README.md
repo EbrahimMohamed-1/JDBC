@@ -1,1 +1,2 @@
-# JDPC
+# JDBC
+Database connectivity example.
